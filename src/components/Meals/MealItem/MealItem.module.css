@@ -1,0 +1,18 @@
+.meal{
+    width: 95%;
+    margin: 0 auto;
+    border-bottom: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.description{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 0.5rem;
+}
+.price{
+    font-weight: bold;
+    color:darkorange;
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
